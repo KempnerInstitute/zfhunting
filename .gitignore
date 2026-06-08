@@ -1,1 +1,55 @@
+# OS/editor noise
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build/package outputs
+build/
+dist/
+*.egg-info/
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Jupyter local state
+.ipynb_checkpoints/
+
+# Training, experiment, and generated outputs
+results/
+outputs/
+runs/
+logs/
+wandb/
+checkpoints/
+models/
+videos/
+figures/
+
+# Model checkpoints and generated data dumps
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npy
+*.npz
