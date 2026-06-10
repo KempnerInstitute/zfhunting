@@ -23,10 +23,11 @@ See [DEVELOP.md](DEVELOP.md)
 
 ## BibTex
 ```latex
-@article{singh2025understanding,
-  title={Understanding Electro-communication and Electro-sensing in Weakly Electric Fish using Multi-Agent Deep Reinforcement Learning},
-  author={Singh, Satpreet H and Johnson-Yu, Sonja and Lu, Zhouyang and Walsman, Aaron and Pedraja, Federico and Turcu, Denis and Sharma, Pratyusha and Saphra, Naomi and Sawtell, Nathaniel B and Rajan, Kanaka},
-  journal={arXiv preprint arXiv:2511.08436},
+@article{malik2025dissecting,
+  title={Dissecting larval zebrafish hunting using deep reinforcement learning trained rnn agents},
+  author={Malik, Raaghav and Singh, Satpreet H and Johnson-Yu, Sonja and Wu, Nathan and Harpaz, Roy and Engert, Florian and Rajan, Kanaka},
+  journal={arXiv preprint arXiv:2510.03699},
   year={2025}
+}
 }
 ```
